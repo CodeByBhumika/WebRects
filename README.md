@@ -24,6 +24,7 @@ A Blog App using HTML, CSS, JavaScript and TypeScript. Click, Express, Engage, I
 
 ## 📸 Preview
 ![WebRects Demo](src/assets/preview.png)  
+## Write a BLOG
 ![WebRects Drawing Mode](src/assets/preview_draw.png)  
 
 > _“From thoughts to the world—one post at a time.”_
