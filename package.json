@@ -1,5 +1,6 @@
 {
   "name": "webrects",
+  "homepage" : "https://CodeByBhumika.github.io/webRects",
   "private": true,
   "version": "0.0.0",
   "type": "module",
